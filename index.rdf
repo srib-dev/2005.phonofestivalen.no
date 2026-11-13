@@ -1,59 +1,61 @@
 <rdf:RDF>
-<channel rdf:about="http://www.phonofestivalen.no/">
+<channel rdf:about="index.html">
 <title>Studentradioen i Bergen · Phonofestivalen 2005</title>
-<link>http://www.phonofestivalen.no/</link>
+<link>
+index.html
+</link>
 <description/>
 <dc:creator/>
 <dc:date>2005-10-02T15:05:20+01:00</dc:date>
-<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=3.15"/>
+<admin:generatorAgent rdf:resource="index.html"/>
 <items>
 <rdf:Seq>
-<rdf:li rdf:resource="http://www.phonofestivalen.no/arkiv/2005/10/bilder_fra_dine_1.html"/>
-<rdf:li rdf:resource="http://www.phonofestivalen.no/arkiv/2005/10/et_mate_mellom.html"/>
-<rdf:li rdf:resource="http://www.phonofestivalen.no/arkiv/2005/09/doug_hoekstra_a.html"/>
-<rdf:li rdf:resource="http://www.phonofestivalen.no/arkiv/2005/09/stinn_brakke_pa.html"/>
-<rdf:li rdf:resource="http://www.phonofestivalen.no/arkiv/2005/09/programmet_for.html"/>
-<rdf:li rdf:resource="http://www.phonofestivalen.no/arkiv/2005/09/pressemelding_2.html"/>
-<rdf:li rdf:resource="http://www.phonofestivalen.no/arkiv/2005/09/com_brasa.html"/>
-<rdf:li rdf:resource="http://www.phonofestivalen.no/arkiv/2005/09/pressemelding.html"/>
-<rdf:li rdf:resource="http://www.phonofestivalen.no/arkiv/2005/09/presseinvitasjo.html"/>
-<rdf:li rdf:resource="http://www.phonofestivalen.no/arkiv/2005/09/bjarn_torske_1.html"/>
-<rdf:li rdf:resource="http://www.phonofestivalen.no/arkiv/2005/09/sydlandsk_stemn.html"/>
-<rdf:li rdf:resource="http://www.phonofestivalen.no/arkiv/2005/09/fnforedrag_avly.html"/>
-<rdf:li rdf:resource="http://www.phonofestivalen.no/arkiv/2005/09/teaterstykket_a.html"/>
-<rdf:li rdf:resource="http://www.phonofestivalen.no/arkiv/2005/09/debattene_pa_ph.html"/>
-<rdf:li rdf:resource="http://www.phonofestivalen.no/arkiv/2005/09/x_makeena_pa_sp_1.html"/>
+<rdf:li rdf:resource="arkiv/bilder_fra_dine_1.html"/>
+<rdf:li rdf:resource="arkiv/et_mate_mellom.html"/>
+<rdf:li rdf:resource="arkiv/doug_hoekstra_a.html"/>
+<rdf:li rdf:resource="arkiv/stinn_brakke_pa.html"/>
+<rdf:li rdf:resource="arkiv/programmet_for.html"/>
+<rdf:li rdf:resource="arkiv/pressemelding.html"/>
+<rdf:li rdf:resource="arkiv/com_brasa.html"/>
+<rdf:li rdf:resource="arkiv/pressemelding.html"/>
+<rdf:li rdf:resource="arkiv/presseinvitasjo.html"/>
+<rdf:li rdf:resource="arkiv/bjarn_torske_1.html"/>
+<rdf:li rdf:resource="arkiv/sydlandsk_stemn.html"/>
+<rdf:li rdf:resource="arkiv/fnforedrag_avly.html"/>
+<rdf:li rdf:resource="arkiv/teaterstykket_a.html"/>
+<rdf:li rdf:resource="arkiv/debattene_pa_ph.html"/>
+<rdf:li rdf:resource="arkiv/x_makeena_pa_sp_1.html"/>
 </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://www.phonofestivalen.no/arkiv/2005/10/bilder_fra_dine_1.html">
+<item rdf:about="arkiv/bilder_fra_dine_1.html">
 <title>Bilder fra dine favorittkonserter</title>
 <link>
-http://www.phonofestivalen.no/arkiv/2005/10/bilder_fra_dine_1.html
+arkiv/bilder_fra_dine_1.html
 </link>
 <description>
-<p><img alt="StereoTotal_015.jpg" src="http://www.phonofestivalen.no/images/StereoTotal_015.jpg" width="400" height="266" /> Dyktige fotografer har knipset en bunke av høstens beste konserter i Bergen. Sjekk bildene fra din favorittkonsert på <a href="http://www.festivalfoto.no/galleri/Phonofestivalen_1/Phono_index.php">festivalfoto.no</a>.</p>
+<p><img alt="StereoTotal_015.jpg" src="images/StereoTotal_015.jpg" width="400" height="266" /> Dyktige fotografer har knipset en bunke av høstens beste konserter i Bergen. Sjekk bildene fra din favorittkonsert på <a href="index.html">festivalfoto.no</a>.</p>
 </description>
 <dc:subject>Nyheter</dc:subject>
 <dc:creator>Phonofestivalen</dc:creator>
 <dc:date>2005-10-02T15:05:20+01:00</dc:date>
 </item>
-<item rdf:about="http://www.phonofestivalen.no/arkiv/2005/10/et_mate_mellom.html">
+<item rdf:about="arkiv/et_mate_mellom.html">
 <title>Et møte mellom vise menn</title>
 <link>
-http://www.phonofestivalen.no/arkiv/2005/10/et_mate_mellom.html
+arkiv/et_mate_mellom.html
 </link>
 <description>
-<p><img alt="hofmo.jpg" src="http://www.phonofestivalen.no/images/hofmo.jpg" width="408" height="292" /> Jan Erik Vold og Georg Johannesen i samtale om Gunvor Hofmo</p>
+<p><img alt="hofmo.jpg" src="images/hofmo.jpg" width="408" height="292" /> Jan Erik Vold og Georg Johannesen i samtale om Gunvor Hofmo</p>
 </description>
 <dc:subject>Nyheter</dc:subject>
 <dc:creator>Phonofestivalen</dc:creator>
 <dc:date>2005-10-01T12:09:59+01:00</dc:date>
 </item>
-<item rdf:about="http://www.phonofestivalen.no/arkiv/2005/09/doug_hoekstra_a.html">
+<item rdf:about="arkiv/doug_hoekstra_a.html">
 <title>Doug Hoekstra avlyst!</title>
 <link>
-http://www.phonofestivalen.no/arkiv/2005/09/doug_hoekstra_a.html
+arkiv/doug_hoekstra_a.html
 </link>
 <description>
 <p>Phonofestivalen beklager å måtte melde at Doug Hoekstra har meldt avbud. Sykdom i familien gjorde at Doug måtte avlyse sin europaturne.Dette var en konsert vi alle har sett frem til, og det er derfor selvsagt trist. I stedet blir Unknown Joe, Bergens egen folk/country-mann, satt opp i Storelosjen sammen med The Owens og Andreas Segrov.</p>
@@ -62,34 +64,34 @@ http://www.phonofestivalen.no/arkiv/2005/09/doug_hoekstra_a.html
 <dc:creator>Phonofestivalen</dc:creator>
 <dc:date>2005-09-30T17:28:10+01:00</dc:date>
 </item>
-<item rdf:about="http://www.phonofestivalen.no/arkiv/2005/09/stinn_brakke_pa.html">
+<item rdf:about="arkiv/stinn_brakke_pa.html">
 <title>Stinn brakke på Kvarteret</title>
 <link>
-http://www.phonofestivalen.no/arkiv/2005/09/stinn_brakke_pa.html
+arkiv/stinn_brakke_pa.html
 </link>
 <description>
-<p><img alt="Resize of StereoTotal_096.jpg" src="http://www.phonofestivalen.no/images/Resize of StereoTotal_096.jpg" width="400" height="266" /> Den gode stemningen lot ikke vente på seg da elektronikaprogrammet "Klubbhuset" på Studentradioen ga publikummet på Kvarteret Tøyen, Stereo Total og Dj Mikal Telle og Dj Asel.<br /> Foto: <a href="http://www.festivalfoto.no">Festivalfoto.no </a></p>
+<p><img alt="Resize of StereoTotal_096.jpg" src="images/Resize of StereoTotal_096.jpg" width="400" height="266" /> Den gode stemningen lot ikke vente på seg da elektronikaprogrammet "Klubbhuset" på Studentradioen ga publikummet på Kvarteret Tøyen, Stereo Total og Dj Mikal Telle og Dj Asel.<br /> Foto: <a href="index.html">Festivalfoto.no </a></p>
 </description>
 <dc:subject>Nyheter</dc:subject>
 <dc:creator>Phonofestivalen</dc:creator>
 <dc:date>2005-09-29T16:10:33+01:00</dc:date>
 </item>
-<item rdf:about="http://www.phonofestivalen.no/arkiv/2005/09/programmet_for.html">
+<item rdf:about="arkiv/programmet_for.html">
 <title>Programmet for Landmark på lørdag er klart</title>
 <link>
-http://www.phonofestivalen.no/arkiv/2005/09/programmet_for.html
+arkiv/programmet_for.html
 </link>
 <description>
-<p>Phonofestivalen gir deg elektronika på Landmark på lørdag. I samarbeid med Transformator og Fredriks Wonderful Evening, vil Casa Electro Novo og Me At Sea sørge for god stemning og liv på dansegulvet!</p> <p>Sjekk ut Casa Electro Novo på <a href="http://www.casaelectronovo.com/">www.casaelectronovo.com</a> og Me At Sea på <a href="http://www.ekkofest.no/2004/z_meatsea.php">www.ekkofest.no/2004/z_meatsea.php</a></p>
+<p>Phonofestivalen gir deg elektronika på Landmark på lørdag. I samarbeid med Transformator og Fredriks Wonderful Evening, vil Casa Electro Novo og Me At Sea sørge for god stemning og liv på dansegulvet!</p> <p>Sjekk ut Casa Electro Novo på <a href="index.html">www.casaelectronovo.com</a> og Me At Sea på <a href="index.html">www.ekkofest.no/2004/z_meatsea.php</a></p>
 </description>
 <dc:subject>Nyheter</dc:subject>
 <dc:creator>Phonofestivalen</dc:creator>
 <dc:date>2005-09-29T16:03:06+01:00</dc:date>
 </item>
-<item rdf:about="http://www.phonofestivalen.no/arkiv/2005/09/pressemelding_2.html">
+<item rdf:about="arkiv/pressemelding.html">
 <title>Pressemelding</title>
 <link>
-http://www.phonofestivalen.no/arkiv/2005/09/pressemelding_2.html
+arkiv/pressemelding.html
 </link>
 <description>
 <p>PHONOFESTIVALEN 05<br /> - En festival i regi av Studentradioen i Bergen<br /> <br /> <br /> </p>
@@ -98,22 +100,22 @@ http://www.phonofestivalen.no/arkiv/2005/09/pressemelding_2.html
 <dc:creator>Phonofestivalen</dc:creator>
 <dc:date>2005-09-28T17:25:16+01:00</dc:date>
 </item>
-<item rdf:about="http://www.phonofestivalen.no/arkiv/2005/09/com_brasa.html">
+<item rdf:about="arkiv/com_brasa.html">
 <title>Com Brasa</title>
 <link>
-http://www.phonofestivalen.no/arkiv/2005/09/com_brasa.html
+arkiv/com_brasa.html
 </link>
 <description>
-<p><img alt="combrasa.jpg" src="http://www.phonofestivalen.no/images/combrasa.jpg" width="150" height="150" /> Com Brasa består av godt etablerte musikere i Bergen. Bandet er har oppstått gjennom felles kjærlighet til den brasilianske musikken. Repertoaret er hentet fra den rike brasilianske sangskatten, The Brasilian Songbook, og komponister som Antonio Carlos Jobim, Ivan Lins, Dori Caymmi og Joao Bosco blir presentert. Musikken spenner fra de mest romantiske ballader til de heftigste samba-rytmer, alt framført på originalspråket. <br /> Tekst og foto: Evansjazzclub.net</p>
+<p><img alt="combrasa.jpg" src="images/combrasa.jpg" width="150" height="150" /> Com Brasa består av godt etablerte musikere i Bergen. Bandet er har oppstått gjennom felles kjærlighet til den brasilianske musikken. Repertoaret er hentet fra den rike brasilianske sangskatten, The Brasilian Songbook, og komponister som Antonio Carlos Jobim, Ivan Lins, Dori Caymmi og Joao Bosco blir presentert. Musikken spenner fra de mest romantiske ballader til de heftigste samba-rytmer, alt framført på originalspråket. <br /> Tekst og foto: Evansjazzclub.net</p>
 </description>
 <dc:subject>Band og artister</dc:subject>
 <dc:creator>Phonofestivalen</dc:creator>
 <dc:date>2005-09-28T17:05:04+01:00</dc:date>
 </item>
-<item rdf:about="http://www.phonofestivalen.no/arkiv/2005/09/pressemelding.html">
+<item rdf:about="arkiv/pressemelding.html">
 <title>Pressemelding</title>
 <link>
-http://www.phonofestivalen.no/arkiv/2005/09/pressemelding.html
+arkiv/pressemelding.html
 </link>
 <description>
 <p>Kvalitetsmusikk fra radio til scene</p> <p>I neste uke går årets andre Phonofestival av stabelen i Bergen. 50 konserter med spennende artister fra inn- og utland skal få bergensstudentene til å feste i fire hektiske dager. Musikken er av kjent studentradiokvalitet med kjente og ukjente artister fra en rekke sjangrer i skjønn forening.</p> <p>Årets headlinere er elektrorockerne Stereo Total (Ger/Fr), hiphop/drum'n'bassgutta i X Makeena (Fr), singer/songwriter Doug Hoekstra (US) og BigDipperrockerne The Bamboo Kids (US).</p>
@@ -122,10 +124,10 @@ http://www.phonofestivalen.no/arkiv/2005/09/pressemelding.html
 <dc:creator>Phonofestivalen</dc:creator>
 <dc:date>2005-09-28T16:23:21+01:00</dc:date>
 </item>
-<item rdf:about="http://www.phonofestivalen.no/arkiv/2005/09/presseinvitasjo.html">
+<item rdf:about="arkiv/presseinvitasjo.html">
 <title>Presseinvitasjon</title>
 <link>
-http://www.phonofestivalen.no/arkiv/2005/09/presseinvitasjo.html
+arkiv/presseinvitasjo.html
 </link>
 <description>
 <p>Utfordrende møter om arr…<br /> I neste uke går årets andre Phonofestival av stabelen i Bergen. I tillegg til 50 konserter får publikum intelligent hjerneføde gjennom debatter, filmer og teater om temaet ”arr”.</p>
@@ -134,34 +136,34 @@ http://www.phonofestivalen.no/arkiv/2005/09/presseinvitasjo.html
 <dc:creator>Phonofestivalen</dc:creator>
 <dc:date>2005-09-28T16:17:30+01:00</dc:date>
 </item>
-<item rdf:about="http://www.phonofestivalen.no/arkiv/2005/09/bjarn_torske_1.html">
+<item rdf:about="arkiv/bjarn_torske_1.html">
 <title>Bjørn Torske</title>
 <link>
-http://www.phonofestivalen.no/arkiv/2005/09/bjarn_torske_1.html
+arkiv/bjarn_torske_1.html
 </link>
 <description>
-<p><img alt="bjorntorsken.jpg" src="http://www.phonofestivalen.no/images/bjorntorsken.jpg" width="200" height="261" /> Den Bergensbosatte tromsøværingen Bjørn Torske er en av pionerene innen norsk elektronika, og omtales stadig oftere mede æresbetegnelsen "Gudfaren" for norsk house. Han har siden begynnelsen av 90-tallet vært blant de mest ettertraktede DJs innen sjangeren både nasjonalt og internasjonalt. Han har også gitt ut en rekke plater; på begynnelsen av 90-tallet under navnet Ismistik på belgisk plateselskap, og han er ikke minst mannen bak utgivelse "Nedi Myra", som er en milepæl innenfor elektronisk musikk, også internasjonalt. Han er i det eksklusive selskap av DJs som har figurert på den britiske Topp 40-listen (med prosjektet Volcano sammen med Ole Mjøs og Rune Lindbæk). Han opptrådte på Roskilde-festivalen allerede i 1993 sammen med Biosphere og har siden besøkt festivalen en rekke ganger. Bjørn Torske er også av de som var ansvarlige for at den såkalte Bergensbølgen fikk så stor blest, gjennom legendariske livesett setter Bjørn Torske fyr på dansegulv verden over. Dette må du ikke gå glipp av.</p> <p>Cafe Opera, torsdag kl. 24.00</p>
+<p><img alt="bjorntorsken.jpg" src="images/bjorntorsken.jpg" width="200" height="261" /> Den Bergensbosatte tromsøværingen Bjørn Torske er en av pionerene innen norsk elektronika, og omtales stadig oftere mede æresbetegnelsen "Gudfaren" for norsk house. Han har siden begynnelsen av 90-tallet vært blant de mest ettertraktede DJs innen sjangeren både nasjonalt og internasjonalt. Han har også gitt ut en rekke plater; på begynnelsen av 90-tallet under navnet Ismistik på belgisk plateselskap, og han er ikke minst mannen bak utgivelse "Nedi Myra", som er en milepæl innenfor elektronisk musikk, også internasjonalt. Han er i det eksklusive selskap av DJs som har figurert på den britiske Topp 40-listen (med prosjektet Volcano sammen med Ole Mjøs og Rune Lindbæk). Han opptrådte på Roskilde-festivalen allerede i 1993 sammen med Biosphere og har siden besøkt festivalen en rekke ganger. Bjørn Torske er også av de som var ansvarlige for at den såkalte Bergensbølgen fikk så stor blest, gjennom legendariske livesett setter Bjørn Torske fyr på dansegulv verden over. Dette må du ikke gå glipp av.</p> <p>Cafe Opera, torsdag kl. 24.00</p>
 </description>
 <dc:subject>Band og artister</dc:subject>
 <dc:creator>Phonofestivalen</dc:creator>
 <dc:date>2005-09-28T15:42:10+01:00</dc:date>
 </item>
-<item rdf:about="http://www.phonofestivalen.no/arkiv/2005/09/sydlandsk_stemn.html">
+<item rdf:about="arkiv/sydlandsk_stemn.html">
 <title>Sydlandsk stemning på Cafe Opera</title>
 <link>
-http://www.phonofestivalen.no/arkiv/2005/09/sydlandsk_stemn.html
+arkiv/sydlandsk_stemn.html
 </link>
 <description>
-<p><img alt="Resize of ComBrasa1.jpg" src="http://www.phonofestivalen.no/images/Resize of ComBrasa1.jpg" width="400" height="266" /> Bergensmusikerne i Com Brasa skapte en varm og lun stemning på en ellers kald og regntung septemberkveld i Bergen. <br /> Foto: <a href="http://www.festivalfoto.no">Festivalfoto.no</a></p>
+<p><img alt="Resize of ComBrasa1.jpg" src="images/Resize of ComBrasa1.jpg" width="400" height="266" /> Bergensmusikerne i Com Brasa skapte en varm og lun stemning på en ellers kald og regntung septemberkveld i Bergen. <br /> Foto: <a href="index.html">Festivalfoto.no</a></p>
 </description>
 <dc:subject>Nyheter</dc:subject>
 <dc:creator>Phonofestivalen</dc:creator>
 <dc:date>2005-09-28T15:26:16+01:00</dc:date>
 </item>
-<item rdf:about="http://www.phonofestivalen.no/arkiv/2005/09/fnforedrag_avly.html">
+<item rdf:about="arkiv/fnforedrag_avly.html">
 <title>FN-foredrag avlyst</title>
 <link>
-http://www.phonofestivalen.no/arkiv/2005/09/fnforedrag_avly.html
+arkiv/fnforedrag_avly.html
 </link>
 <description>
 <p>På grunn av sykdom må vi dessverre opplyse om at foredraget "FN og Reformspørsmålet – Har FN utspilt sin rolle?" er avlyst. Minner om at foredraget "Nordkorea: verdens største fengsel" går som planlagt kl 14.00 i Storelosjen, og "Østologi -østtysk nostalgi" kl 19.15 i Speilsalen.<br /> </p>
@@ -170,37 +172,37 @@ http://www.phonofestivalen.no/arkiv/2005/09/fnforedrag_avly.html
 <dc:creator>Phonofestivalen</dc:creator>
 <dc:date>2005-09-28T10:19:44+01:00</dc:date>
 </item>
-<item rdf:about="http://www.phonofestivalen.no/arkiv/2005/09/teaterstykket_a.html">
+<item rdf:about="arkiv/teaterstykket_a.html">
 <title>Teaterstykket ARR - episoder fra lukket avdeling</title>
 <link>
-http://www.phonofestivalen.no/arkiv/2005/09/teaterstykket_a.html
+arkiv/teaterstykket_a.html
 </link>
 <description>
-<p><img alt="Arr.jpg" src="http://www.phonofestivalen.no/images/Arr.jpg" width="400" height="266" /> John Inge Keskitalos bestillingsverk til Phonofestivalen heter ”Arr” og handler om møtet mellom tre pasienter på et mentalsykehus. I en stilisert scenografi gir møtene mellom hovedpersonene et fortettet bilde på noen aktuelle problemer innen psykiatrien.<br /> Foto: <a href="http://www.festivalfoto.no">Festivalfoto.no</a></p>
+<p><img alt="Arr.jpg" src="images/Arr.jpg" width="400" height="266" /> John Inge Keskitalos bestillingsverk til Phonofestivalen heter ”Arr” og handler om møtet mellom tre pasienter på et mentalsykehus. I en stilisert scenografi gir møtene mellom hovedpersonene et fortettet bilde på noen aktuelle problemer innen psykiatrien.<br /> Foto: <a href="index.html">Festivalfoto.no</a></p>
 </description>
 <dc:subject>Nyheter</dc:subject>
 <dc:creator>Phonofestivalen</dc:creator>
 <dc:date>2005-09-27T15:05:30+01:00</dc:date>
 </item>
-<item rdf:about="http://www.phonofestivalen.no/arkiv/2005/09/debattene_pa_ph.html">
+<item rdf:about="arkiv/debattene_pa_ph.html">
 <title>Debattene på Phonofestivalen har begynt</title>
 <link>
-http://www.phonofestivalen.no/arkiv/2005/09/debattene_pa_ph.html
+arkiv/debattene_pa_ph.html
 </link>
 <description>
-<p><img alt="Resize of Phono Debatt 26-9.jpg" src="http://www.phonofestivalen.no/images/Resize of Phono Debatt 26-9.jpg" width="400" height="260" /> Panelet i debatten om dokumentarfilmer, ”The Battle of Reality” på Magnus Barfot Kino mandag 26. september, besto av toneangivende unge regissører og filmfolk fra Skandinavia og Europa. Flere av regissørene har bidratt med filmer til konkurranseprogrammet på Nordisk Panorama, filmfestivalen med fokus på ny skandinavisk dokumentarfilm. </p>
+<p><img alt="Resize of Phono Debatt 26-9.jpg" src="images/Resize of Phono Debatt 26-9.jpg" width="400" height="260" /> Panelet i debatten om dokumentarfilmer, ”The Battle of Reality” på Magnus Barfot Kino mandag 26. september, besto av toneangivende unge regissører og filmfolk fra Skandinavia og Europa. Flere av regissørene har bidratt med filmer til konkurranseprogrammet på Nordisk Panorama, filmfestivalen med fokus på ny skandinavisk dokumentarfilm. </p>
 </description>
 <dc:subject>Nyheter</dc:subject>
 <dc:creator>Phonofestivalen</dc:creator>
 <dc:date>2005-09-26T21:12:48+01:00</dc:date>
 </item>
-<item rdf:about="http://www.phonofestivalen.no/arkiv/2005/09/x_makeena_pa_sp_1.html">
+<item rdf:about="arkiv/x_makeena_pa_sp_1.html">
 <title>X Makeena på spesialvisitt</title>
 <link>
-http://www.phonofestivalen.no/arkiv/2005/09/x_makeena_pa_sp_1.html
+arkiv/x_makeena_pa_sp_1.html
 </link>
 <description>
-<p><img alt="xmakeena.jpg" src="http://www.phonofestivalen.no/images/xmakeena.jpg" width="400" height="300" /> Phonofestivalen har den glede å presentere den franske gruppa X Makeena som et av festivalens desidert største høydepunkt! </p>
+<p><img alt="xmakeena.jpg" src="images/xmakeena.jpg" width="400" height="300" /> Phonofestivalen har den glede å presentere den franske gruppa X Makeena som et av festivalens desidert største høydepunkt! </p>
 </description>
 <dc:subject>Nyheter</dc:subject>
 <dc:creator>Phonofestivalen</dc:creator>
